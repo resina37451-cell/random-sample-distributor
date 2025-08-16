@@ -127,9 +127,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@your_username](https://github.com/resina37451-cell)
+Your Name - [@your_username](https://github.com/your-username)
 
-Project Link: [[https://github.com/your-username/sample-distributor](https://github.com/your-username/sample-distributor](https://github.com/resina37451-cell/random-sample-distributor))
+Project Link: [https://github.com/your-username/sample-distributor](https://github.com/your-username/sample-distributor)
 
 ## Project Status
 

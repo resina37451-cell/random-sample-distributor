@@ -1,0 +1,10 @@
+# Sample Distributor - Dependencies
+# Python 3.6+ required
+
+# This project uses only Python standard libraries
+# No additional installation needed
+
+# For development (optional):
+# black>=22.0.0        # Code formatting
+# flake8>=4.0.0        # Linting
+# pytest>=7.0.0        # Testing
